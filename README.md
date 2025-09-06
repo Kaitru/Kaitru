@@ -1,0 +1,1 @@
+# I'm too lazy to make a normal readme.md, so I'll make it better in future
